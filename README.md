@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  Built as an MVP to reduce editing time while preserving writer tone and intent.
+</p>
+
+<p align="center">
   <a href="https://nitpickai.com">Live App</a> ·
   <a href="#demo">Demo</a> ·
   <a href="SCREENSHOT-CHECKLIST.md">Screenshot Checklist</a>
@@ -23,16 +27,22 @@
 
 This repository is a **public showcase** for NitpickAI.
 
-NitpickAI is currently an **MVP/Beta** built to solve one clear problem:
-most writing tools "help" by rewriting tone, intent, and style. This product does not.
+NitpickAI is an **MVP/Beta** focused on one job: catch real writing errors without replacing the writer.
 
-It highlights grammar, spelling, and punctuation issues, explains each one clearly, and keeps the writer in control of every change.
+Most tools over-rewrite. NitpickAI flags grammar, spelling, and punctuation issues, explains them clearly, and keeps every edit decision with the user.
+
+## Client outcome
+
+- Faster edit cycles for writers and teams
+- Cleaner copy without tone drift
+- Human-in-the-loop control (accept/ignore each change)
+- Reduced QA friction from over-aggressive AI rewriting
 
 ## Why I built it
 
 My brother is a published writer. He asked for a grammar checker that would stop wasting time and stop rewriting his voice.
 
-That request turned into NitpickAI: practical writing feedback, visual issue detection, and user-controlled corrections.
+That request became NitpickAI: practical writing feedback, visual issue detection, and user-controlled corrections.
 
 ## Demo
 
@@ -47,7 +57,7 @@ That request turned into NitpickAI: practical writing feedback, visual issue det
 4. Accept or ignore each suggestion.
 5. Export cleaner text while preserving voice.
 
-## Current feature scope (Beta)
+## Beta scope
 
 - Visual issue highlights in text
 - Category-based issue review
@@ -63,10 +73,10 @@ This is an active beta, not a finished product.
 
 Known realities of this stage:
 
-- UX and copy are still being refined
-- Edge-case grammar logic is still being hardened
-- Suggestions should always be user-reviewed before publishing
-- Some workflows are intentionally optimized for testing speed over polish
+- UX and microcopy are still being refined
+- Edge-case grammar handling is still being hardened
+- Suggestions should be user-reviewed before publishing
+- Some workflows prioritize test velocity over final polish
 
 ## Tech snapshot
 
@@ -123,7 +133,17 @@ This project demonstrates end-to-end execution of a production-style AI app:
 - translating a real user pain point into product scope
 - designing constrained AI behavior (assist, do not overtake)
 - shipping full-stack architecture with deployment and auth
-- iterating quickly from real feedback and edge-case failures
+- iterating quickly from production feedback and edge cases
+
+## Engagement model
+
+I build focused AI tools for specific workflows (content ops, internal QA, review pipelines, support enablement).
+
+For client work, I can deliver:
+
+- scoped MVPs with clear acceptance criteria
+- production-ready integrations and deployment
+- iterative hardening based on real usage
 
 ## Repository policy
 
