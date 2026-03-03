@@ -88,18 +88,33 @@ User Input (Web UI)
   -> Final edited output
 ```
 
-## Screenshots to include
+## Product walkthrough (screenshots)
 
-A complete shot list is in [SCREENSHOT-CHECKLIST.md](SCREENSHOT-CHECKLIST.md).
+Complete capture guidance is in [SCREENSHOT-CHECKLIST.md](SCREENSHOT-CHECKLIST.md).
 
-Recommended minimum set:
+### 1) Input text with real mistakes
 
-- Homepage/editor state
-- Analysis in progress
-- Highlighted issues + issue card
-- Accept/ignore in action
-- Final cleaned output
-- Admin/tester view (optional for technical clients)
+![Input text before analysis](assets/screenshots/text.in.png)
+
+### 2) Visual highlights after analysis
+
+![Highlighted grammar and punctuation issues](assets/screenshots/text.highlight.png)
+
+### 3) Detail panel: issue explanation
+
+![Issue detail panel with explanation and suggested fix](assets/screenshots/text.detail.png)
+
+### 4) Detail cards: categorized review
+
+![Category cards and review controls](assets/screenshots/text.cards.png)
+
+### 5) Detail box: focused correction context
+
+![Focused detail box for targeted editing decisions](assets/screenshots/text.box.png)
+
+### 6) Final cleaned output (voice preserved)
+
+![Final output after selective accepts and ignores](assets/screenshots/text.clean.png)
 
 ## Client relevance (Upwork / portfolio)
 
