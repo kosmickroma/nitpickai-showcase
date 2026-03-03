@@ -31,7 +31,7 @@ NitpickAI is an **MVP/Beta** focused on one job: catch real writing errors witho
 
 Most tools over-rewrite. NitpickAI flags grammar, spelling, and punctuation issues, explains them clearly, and keeps every edit decision with the user.
 
-## Client outcome
+## Project outcomes
 
 - Faster edit cycles for writers and teams
 - Cleaner copy without tone drift
@@ -126,7 +126,7 @@ Complete capture guidance is in [SCREENSHOT-CHECKLIST.md](SCREENSHOT-CHECKLIST.m
 
 ![Final output after selective accepts and ignores](assets/screenshots/text.clean.png)
 
-## Client relevance (Upwork / portfolio)
+## Project relevance
 
 This project demonstrates end-to-end execution of a production-style AI app:
 
@@ -139,7 +139,7 @@ This project demonstrates end-to-end execution of a production-style AI app:
 
 I build focused AI tools for specific workflows (content ops, internal QA, review pipelines, support enablement).
 
-For client work, I can deliver:
+In engagements, I can deliver:
 
 - scoped MVPs with clear acceptance criteria
 - production-ready integrations and deployment
@@ -147,14 +147,14 @@ For client work, I can deliver:
 
 ## Repository policy
 
-This showcase repo is for portfolio and client evaluation.
+This showcase repo is for portfolio review and project evaluation.
 
 - It does **not** include full private production source.
-- Detailed implementation can be shared selectively for serious client conversations.
+- Detailed implementation can be shared selectively in serious project conversations.
 
 ## Contact
 
-If you need a focused AI workflow built for your business (not generic AI glue), reach out via Upwork.
+If you need a focused AI workflow built for your business (not generic AI glue), reach out.
 
 ---
 
